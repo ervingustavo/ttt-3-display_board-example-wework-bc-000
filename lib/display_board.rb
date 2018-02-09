@@ -1,4 +1,10 @@
 def display_board 
- puts "  |  |  "
+ puts "   |   |   "
+ puts "___________
+ puts "   |   |   "
+ puts "___________
+ puts "   |   |   "
 end
+
+display_board
 
